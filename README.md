@@ -2,5 +2,5 @@
 Curso de Ciências da Computação
 framework I
 
-Arquivo Alterado I
-Arquivo Alterado II
+Arquivo alterado I
+Arquivo alterado II
